@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;JDK 1.8<br>
 &nbsp;&nbsp;&nbsp;&nbsp;JUnit 5.4<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Intellij IDEA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Git
+&nbsp;&nbsp;&nbsp;&nbsp;Git<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Jprofiler
 
 ### wordcounter里的src文件夹中四个.java文件，功能如下：
