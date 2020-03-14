@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;JUnit 5.4<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Intellij IDEA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Git<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Jprofiler
+&nbsp;&nbsp;&nbsp;&nbsp;JProfiler
 
 ### wordcounter里的src文件夹中四个.java文件，功能如下：
 &nbsp;&nbsp;&nbsp;&nbsp;1.wordcounter.java  --实现基本操作等操作的类。<br>
